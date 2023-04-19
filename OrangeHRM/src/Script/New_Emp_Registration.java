@@ -63,7 +63,7 @@ public class New_Emp_Registration {
 		{
 			System.out.println("New Registered Employee is not displayed in Employee List, Test Fail");
 		}
-		driver.quit();
+		driver.close();
 }
 
 		
